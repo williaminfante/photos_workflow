@@ -1,3 +1,12 @@
+# Adds the level 1 folder name in the jpg metadata title and description
+# Use: run this schell script in the level 2 folder
+# Example:
+#   cd ~/Desktop
+#   ~/dev/photos_workflow.sh
+# Expected: '2020.01.01 Folder Name' is a folder in ~/Desktop.
+#           '2020.01.01 Folder Name' has an image file '1.jpg' and '2.jpg'
+#           '1.jpg' and '2.jpg' will have the folder name in their metadata
+
 for d in */; do
     echo $d 
         for f in "$d"*.jpg; do

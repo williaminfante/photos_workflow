@@ -1,5 +1,6 @@
 #!/bin/bash 
 
+# Find images with no creation dates (including subfolders)
 exiftool \
 	-filename \
 	-filemodifydate \

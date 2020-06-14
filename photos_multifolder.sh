@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Adds the level 1 folder name in the jpg metadata title and description
 # Use: run this schell script in the level 2 folder
 # Example:
@@ -14,25 +16,29 @@ for d in */; do
             echo $(basename "$d")
             #NEW_TITLE="${PWD##*/}"
             NEW_TITLE="${d%?}"
-
+            OLD_TITLE="$(exiftool -s -s -s -XMP:Title "$f")"
             # Update
-            exiftool \
-                -overwrite_original \
-                -XMP:Title="$NEW_TITLE" \
-                -EXIF:ImageDescription="$NEW_TITLE" \
-                -IPTC:Caption-Abstract="$NEW_TITLE" \
-                -XMP:Description="$NEW_TITLE" \
-                -EXIF:XPTitle="$NEW_TITLE" \
-                "$f"
+            if [ "$OLD_TITLE" != "$NEW_TITLE" ]; then
+                echo "overwriting title"
+                exiftool \
+                    -overwrite_original \
+                    -XMP:Title="$NEW_TITLE" \
+                    -EXIF:ImageDescription="$NEW_TITLE" \
+                    -IPTC:Caption-Abstract="$NEW_TITLE" \
+                    -XMP:Description="$NEW_TITLE" \
+                    -EXIF:XPTitle="$NEW_TITLE" \
+                    "$f"
 
-            # display what we've set
-            exiftool -f \
-                -XMP:Title \
-                -EXIF:ImageDescription \
-                -IPTC:Caption-Abstract \
-                -XMP:Description \
-                -EXIF:XPTitle \
-                "$f"
-      
+                # display what we've set
+                exiftool -f \
+                    -XMP:Title \
+                    -EXIF:ImageDescription \
+                    -IPTC:Caption-Abstract \
+                    -XMP:Description \
+                    -EXIF:XPTitle \
+                    "$f"
+            else
+                echo "skipping because correct title exists already"
+            fi
    done
 done

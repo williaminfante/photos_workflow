@@ -1,0 +1,1317 @@
+======== ./2006_sync/2006.12.10 Fiesta Mall [admu][cersa]/CERSA Fiesta Mall Online.jpg
+File Name                       : CERSA Fiesta Mall Online.jpg
+File Modification Date/Time     : 2015:02:08 14:09:36+11:00
+Create Date                     : 2006:12:10 14:50:44+08:00
+======== ./2007_sync/2007.09.17 Bookdrive [admu][coa][scitech]/bookdrive.jpg
+File Name                       : bookdrive.jpg
+File Modification Date/Time     : 2014:03:03 00:34:04+11:00
+Create Date                     : 2007:09:17 12:20:28-08:00
+======== ./2006_sync/2006.12.10 Fiesta Mall [admu][cersa]/CERSA Fiesta Mall Online.jpg
+File Name                       : CERSA Fiesta Mall Online.jpg
+File Modification Date/Time     : 2015:02:08 14:09:36+11:00
+Create Date                     : 2006:12:10 14:50:44+08:00
+======== ./2007_sync/2007.09.17 Bookdrive [admu][coa][scitech]/bookdrive.jpg
+File Name                       : bookdrive.jpg
+File Modification Date/Time     : 2014:03:03 00:34:04+11:00
+Create Date                     : 2007:09:17 12:20:28-08:00
+======== ./2011_sync/2011.06.23 Baiteiy (Nakhon Ratchasima, Thailand) [intl][slri][travel][food]/fb_269456_211735272201586_100000953448921_578025_2223505_n.jpg
+File Name                       : fb_269456_211735272201586_100000953448921_578025_2223505_n.jpg
+File Modification Date/Time     : 2015:07:11 23:30:41+10:00
+Create Date                     : 2011:06:23 21:54:45.997
+======== ./2011_sync/2011.10.08 Kloster Andechs Trekking [tum][travel] {Hi-Res}/stanley (11).jpg
+File Name                       : stanley (11).jpg
+File Modification Date/Time     : 2014:02:02 01:14:53+11:00
+Create Date                     : 2011:10:08 13:03:11.997
+======== ./2011_sync/2011.10.22 Rathaus - Goldener Saal (Augsburg, Germany) [intl][tum][travel]/fb_339247_10150424780066803_621771802_10252829_276216909_o.jpg
+File Name                       : fb_339247_10150424780066803_621771802_10252829_276216909_o.jpg
+File Modification Date/Time     : 2014:02:02 01:57:35+11:00
+Create Date                     : 2011:10:22 20:31:38.997
+======== ./2011_sync/2011.12.31 San Croce Sacre-Coeur (Paris, France) [intl][tum][travel]/from damien paris (83).jpg
+File Name                       : from damien paris (83).jpg
+File Modification Date/Time     : 2011:12:31 23:23:58+11:00
+Create Date                     : 2011:12:31 15:43:50.997
+======== ./2012_sync/2012.01.06 Grand Place (Brussels, Belgium) [intl][tum][travel]/from haekal belgium (6).jpg
+File Name                       : from haekal belgium (6).jpg
+File Modification Date/Time     : 2015:07:11 23:35:48+10:00
+Create Date                     : 2012:01:05 17:19:44.997
+======== ./2012_sync/2012.01.06 Mini-Europe (Brussels, Belgium) [intl][tum][travel]/from damien brussels 2 (7).jpg
+File Name                       : from damien brussels 2 (7).jpg
+File Modification Date/Time     : 2015:07:11 23:35:53+10:00
+Create Date                     : 2012:01:06 16:59:32.997
+======== ./2013_sync/2013.08.23 Dinner Aldo at Via Mare [canon][food]/IMG_36874723935835.jpeg
+File Name                       : IMG_36874723935835.jpeg
+File Modification Date/Time     : 2014:02:01 22:19:24+11:00
+Create Date                     : 2013:08:23 08:53:28.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (10).jpg
+File Name                       : ibang pangalan (10).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (2).jpg
+File Name                       : ibang pangalan (2).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (4).jpg
+File Name                       : ibang pangalan (4).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (5).jpg
+File Name                       : ibang pangalan (5).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (6).jpg
+File Name                       : ibang pangalan (6).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (7).jpg
+File Name                       : ibang pangalan (7).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (8).jpg
+File Name                       : ibang pangalan (8).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.17 Allan's Birthday at Gerry's Grill [canon][food] {William}/ibang pangalan (9).jpg
+File Name                       : ibang pangalan (9).jpg
+File Modification Date/Time     : 2014:01:27 01:21:13+11:00
+Create Date                     : 2013:12:17 20:50:16.997
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1415566_190388484498480_898133746_o.jpg
+File Name                       : fb_1415566_190388484498480_898133746_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1421267_190391971164798_1630811138_o.jpg
+File Name                       : fb_1421267_190391971164798_1630811138_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1462650_190387641165231_1984764030_o.jpg
+File Name                       : fb_1462650_190387641165231_1984764030_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1462814_190392264498102_1688189469_o.jpg
+File Name                       : fb_1462814_190392264498102_1688189469_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:51+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1462821_190386481165347_1575516073_o.jpg
+File Name                       : fb_1462821_190386481165347_1575516073_o.jpg
+File Modification Date/Time     : 2014:01:27 00:46:17+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1485974_190387574498571_1641065323_o.jpg
+File Name                       : fb_1485974_190387574498571_1641065323_o.jpg
+File Modification Date/Time     : 2014:01:26 23:52:19+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1487722_190387167831945_2109465845_o.jpg
+File Name                       : fb_1487722_190387167831945_2109465845_o.jpg
+File Modification Date/Time     : 2014:01:13 00:28:37+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1487780_190393851164610_1700685160_o.jpg
+File Name                       : fb_1487780_190393851164610_1700685160_o.jpg
+File Modification Date/Time     : 2014:01:26 23:54:44+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1487878_190395874497741_1969960187_o.jpg
+File Name                       : fb_1487878_190395874497741_1969960187_o.jpg
+File Modification Date/Time     : 2015:10:25 20:42:37+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1490613_190398281164167_2045966246_o.jpg
+File Name                       : fb_1490613_190398281164167_2045966246_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1490686_190398351164160_2011816578_o.jpg
+File Name                       : fb_1490686_190398351164160_2011816578_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:39+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1490775_190398424497486_284795901_o.jpg
+File Name                       : fb_1490775_190398424497486_284795901_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:39+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1491329_190398787830783_1814125904_o.jpg
+File Name                       : fb_1491329_190398787830783_1814125904_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1492129_190396204497708_376252988_o.jpg
+File Name                       : fb_1492129_190396204497708_376252988_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1492298_190392284498100_2034467954_o.jpg
+File Name                       : fb_1492298_190392284498100_2034467954_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:53+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1492301_190387587831903_964606963_o.jpg
+File Name                       : fb_1492301_190387587831903_964606963_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1492321_190396794497649_1359696241_o.jpg
+File Name                       : fb_1492321_190396794497649_1359696241_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:44+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1492740_190392177831444_1190091187_o.jpg
+File Name                       : fb_1492740_190392177831444_1190091187_o.jpg
+File Modification Date/Time     : 2015:10:25 12:30:46+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1493431_190391904498138_1238166622_o.jpg
+File Name                       : fb_1493431_190391904498138_1238166622_o.jpg
+File Modification Date/Time     : 2014:01:26 23:52:19+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1495204_190391371164858_1155108544_o.jpg
+File Name                       : fb_1495204_190391371164858_1155108544_o.jpg
+File Modification Date/Time     : 2014:01:13 00:17:39+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1496377_190397054497623_811518472_o.jpg
+File Name                       : fb_1496377_190397054497623_811518472_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1496431_190391954498133_405169279_o.jpg
+File Name                       : fb_1496431_190391954498133_405169279_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1497853_190396837830978_1677249358_o.jpg
+File Name                       : fb_1497853_190396837830978_1677249358_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:53+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1497933_190392147831447_1722870592_o.jpg
+File Name                       : fb_1497933_190392147831447_1722870592_o.jpg
+File Modification Date/Time     : 2015:10:25 12:30:46+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1498949_190398181164177_2118258046_o.jpg
+File Name                       : fb_1498949_190398181164177_2118258046_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1500812_190398444497484_1617286912_o.jpg
+File Name                       : fb_1500812_190398444497484_1617286912_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1501005_190388807831781_811869716_o.jpg
+File Name                       : fb_1501005_190388807831781_811869716_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1501387_190398861164109_1980385701_o.jpg
+File Name                       : fb_1501387_190398861164109_1980385701_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:53+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1502164_190388537831808_923940869_o.jpg
+File Name                       : fb_1502164_190388537831808_923940869_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1502859_190386541165341_902637395_o.jpg
+File Name                       : fb_1502859_190386541165341_902637395_o.jpg
+File Modification Date/Time     : 2015:10:25 20:36:33+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1502876_190391737831488_1481430867_o.jpg
+File Name                       : fb_1502876_190391737831488_1481430867_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:53+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1504072_190403267830335_1977652357_n.jpg
+File Name                       : fb_1504072_190403267830335_1977652357_n.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1504281_190397217830940_1779976742_o.jpg
+File Name                       : fb_1504281_190397217830940_1779976742_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1506316_190393901164605_1945063979_o.jpg
+File Name                       : fb_1506316_190393901164605_1945063979_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:45+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1506322_190396057831056_1558186330_o.jpg
+File Name                       : fb_1506322_190396057831056_1558186330_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:51+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1506379_190390014498327_1267809690_o.jpg
+File Name                       : fb_1506379_190390014498327_1267809690_o.jpg
+File Modification Date/Time     : 2014:01:26 23:52:19+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1507309_190393804497948_1464797056_o.jpg
+File Name                       : fb_1507309_190393804497948_1464797056_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:45+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1511786_190392061164789_1539513762_o.jpg
+File Name                       : fb_1511786_190392061164789_1539513762_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1511846_190396931164302_2144514996_o.jpg
+File Name                       : fb_1511846_190396931164302_2144514996_o.jpg
+File Modification Date/Time     : 2014:01:27 00:48:11+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1512038_190397031164292_1411498538_o.jpg
+File Name                       : fb_1512038_190397031164292_1411498538_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1517859_190392341164761_1089365059_o.jpg
+File Name                       : fb_1517859_190392341164761_1089365059_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1518338_190399017830760_1398760381_o.jpg
+File Name                       : fb_1518338_190399017830760_1398760381_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:47+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1519759_190392097831452_1737535908_o.jpg
+File Name                       : fb_1519759_190392097831452_1737535908_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:26+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1522688_190397101164285_1055694553_o.jpg
+File Name                       : fb_1522688_190397101164285_1055694553_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1522728_190392531164742_438426015_o.jpg
+File Name                       : fb_1522728_190392531164742_438426015_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1522909_190398647830797_561871457_o.jpg
+File Name                       : fb_1522909_190398647830797_561871457_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1522948_190398157830846_681659346_o.jpg
+File Name                       : fb_1522948_190398157830846_681659346_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1523502_190386514498677_1784964297_o.jpg
+File Name                       : fb_1523502_190386514498677_1784964297_o.jpg
+File Modification Date/Time     : 2015:10:25 20:36:34+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1523976_190386721165323_820370754_o.jpg
+File Name                       : fb_1523976_190386721165323_820370754_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:55+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1524229_190389557831706_262902001_o.jpg
+File Name                       : fb_1524229_190389557831706_262902001_o.jpg
+File Modification Date/Time     : 2014:01:26 23:52:20+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1524276_190396994497629_797839607_o.jpg
+File Name                       : fb_1524276_190396994497629_797839607_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1524284_190398137830848_1524181576_o.jpg
+File Name                       : fb_1524284_190398137830848_1524181576_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:55+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1524969_190346401169355_1885035679_n.jpg
+File Name                       : fb_1524969_190346401169355_1885035679_n.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1531882_190396111164384_1019748927_o.jpg
+File Name                       : fb_1531882_190396111164384_1019748927_o.jpg
+File Modification Date/Time     : 2015:10:25 20:45:52+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1534972_190398897830772_815151525_o.jpg
+File Name                       : fb_1534972_190398897830772_815151525_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1537407_190398591164136_1387953120_o.jpg
+File Name                       : fb_1537407_190398591164136_1387953120_o.jpg
+File Modification Date/Time     : 2015:10:25 20:42:20+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1537755_190390684498260_1810893165_o.jpg
+File Name                       : fb_1537755_190390684498260_1810893165_o.jpg
+File Modification Date/Time     : 2014:01:13 00:17:39+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1537864_190392927831369_1701104884_o.jpg
+File Name                       : fb_1537864_190392927831369_1701104884_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1540345_190398827830779_284450657_o.jpg
+File Name                       : fb_1540345_190398827830779_284450657_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:27+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_1540537_190395831164412_575450744_o.jpg
+File Name                       : fb_1540537_190395831164412_575450744_o.jpg
+File Modification Date/Time     : 2015:10:25 20:42:37+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_775743_190395771164418_279157832_o.jpg
+File Name                       : fb_775743_190395771164418_279157832_o.jpg
+File Modification Date/Time     : 2014:01:26 23:54:44+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_857128_190392407831421_995656042_o.jpg
+File Name                       : fb_857128_190392407831421_995656042_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_861348_190386564498672_1767832876_o.jpg
+File Name                       : fb_861348_190386564498672_1767832876_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_882247_190386774498651_1614524763_o.jpg
+File Name                       : fb_882247_190386774498651_1614524763_o.jpg
+File Modification Date/Time     : 2014:01:13 00:01:49+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_893642_190392797831382_1549788891_o.jpg
+File Name                       : fb_893642_190392797831382_1549788891_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2013_sync/2013.12.22 9th Egyptian Christmas Party [phs] {Downloads}/fb_906869_190397127830949_1714377418_o.jpg
+File Name                       : fb_906869_190397127830949_1714377418_o.jpg
+File Modification Date/Time     : 2014:01:05 19:39:25+11:00
+Create Date                     : 2013:12:22 14:11:10.995
+======== ./2016_sync/2016.01.10 Lotsapizza/received_1095264117170679.jpeg
+File Name                       : received_1095264117170679.jpeg
+File Modification Date/Time     : 2016:01:22 19:51:56+11:00
+======== ./2016_sync/2016.01.10 Lotsapizza/received_1095264120504012.jpeg
+File Name                       : received_1095264120504012.jpeg
+File Modification Date/Time     : 2016:01:22 19:51:58+11:00
+======== ./2016_sync/2016.01.10 Lotsapizza/received_1095264123837345.jpeg
+File Name                       : received_1095264123837345.jpeg
+File Modification Date/Time     : 2016:01:22 19:52:00+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263720504052.jpeg
+File Name                       : received_1095263720504052.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263723837385.jpeg
+File Name                       : received_1095263723837385.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263727170718.jpeg
+File Name                       : received_1095263727170718.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263730504051.jpeg
+File Name                       : received_1095263730504051.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263733837384.jpeg
+File Name                       : received_1095263733837384.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263737170717.jpeg
+File Name                       : received_1095263737170717.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263740504050.jpeg
+File Name                       : received_1095263740504050.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.01.12 Ingkung Butiu's Anniversary [family] {Mobile}/received_1095263743837383.jpeg
+File Name                       : received_1095263743837383.jpeg
+File Modification Date/Time     : 2016:01:26 23:57:23+11:00
+======== ./2016_sync/2016.02.17 Last Day at Home [family]/P_20160217_074702_PN.jpg
+File Name                       : P_20160217_074702_PN.jpg
+File Modification Date/Time     : 2016:02:22 13:07:25+11:00
+Create Date                     : 2016:02:17 07:47:03
+======== ./2016_sync/2016.02.23 USU The Rocks Tour [usyd][travel]/P_20160223_151053_PN.jpg
+File Name                       : P_20160223_151053_PN.jpg
+File Modification Date/Time     : 2016:02:25 20:29:53+11:00
+Create Date                     : 2016:02:23 15:10:54
+======== ./2016_sync/2016.02.23 USU The Rocks Tour [usyd][travel]/P_20160223_151102_PN.jpg
+File Name                       : P_20160223_151102_PN.jpg
+File Modification Date/Time     : 2016:02:25 20:29:53+11:00
+Create Date                     : 2016:02:23 15:11:03
+======== ./2016_sync/2016.02.23 USU The Rocks Tour [usyd][travel]/P_20160223_151324_PN.jpg
+File Name                       : P_20160223_151324_PN.jpg
+File Modification Date/Time     : 2016:02:25 20:29:53+11:00
+Create Date                     : 2016:02:23 15:13:25
+======== ./2016_sync/2016.02.23 USU The Rocks Tour [usyd][travel]/P_20160223_153038_PN.jpg
+File Name                       : P_20160223_153038_PN.jpg
+File Modification Date/Time     : 2016:02:25 20:29:53+11:00
+Create Date                     : 2016:02:23 15:30:38
+======== ./2016_sync/2016.04.03 Blak Market {Hi-Res}/P_20160403_100005_PN.jpg
+File Name                       : P_20160403_100005_PN.jpg
+File Modification Date/Time     : 2016:04:04 14:36:32+10:00
+Create Date                     : 2016:04:03 10:00:07
+======== ./2016_sync/2016.08.24 Interchange Gala Night/14114924_1653419714985946_8053571898806995459_o.jpg
+File Name                       : 14114924_1653419714985946_8053571898806995459_o.jpg
+File Modification Date/Time     : 2016:08:25 12:15:12+10:00
+======== ./2016_sync/2016.09.11 Smooth Chocolate Festival {Downloads}/14316836_1443160532365684_2322668969840853176_n.jpg
+File Name                       : 14316836_1443160532365684_2322668969840853176_n.jpg
+File Modification Date/Time     : 2016:09:11 23:31:00+10:00
+======== ./2016_sync/2016.09.11 Smooth Chocolate Festival {Downloads}/14317402_1443160339032370_2482955629314269180_n.jpg
+File Name                       : 14317402_1443160339032370_2482955629314269180_n.jpg
+File Modification Date/Time     : 2016:09:11 23:31:00+10:00
+======== ./2016_sync/2016.09.11 Smooth Chocolate Festival {Downloads}/14322265_1443160579032346_5691648596344455681_n.jpg
+File Name                       : 14322265_1443160579032346_5691648596344455681_n.jpg
+File Modification Date/Time     : 2016:09:11 23:31:00+10:00
+======== ./2016_sync/2016.10.18 Raising the Bar Sydney/CvCPxPgVIAAYmft.jpg
+File Name                       : CvCPxPgVIAAYmft.jpg
+File Modification Date/Time     : 2016:10:28 09:21:30+11:00
+======== ./2016_sync/2016.10.18 Raising the Bar Sydney/CvtBra0XgAEaBDk.jpg
+File Name                       : CvtBra0XgAEaBDk.jpg
+File Modification Date/Time     : 2016:10:28 09:21:30+11:00
+======== ./2016_sync/2016.10.19 Parents in Sydney Day 1 {Hi-Res}/IMG_4658.jpg
+File Name                       : IMG_4658.jpg
+File Modification Date/Time     : 2016:10:28 14:09:48+11:00
+======== ./2016_sync/2017.01.01 New Year in Blacktown {Hi-Res}/15775021_10202573493894965_8397747187942330559_o.jpg
+File Name                       : 15775021_10202573493894965_8397747187942330559_o.jpg
+File Modification Date/Time     : 2017:01:06 23:02:31+11:00
+======== ./2016_sync/2017.01.01 New Year in Blacktown {Hi-Res}/15799979_10202573493174947_5060885088742549876_o.jpg
+File Name                       : 15799979_10202573493174947_5060885088742549876_o.jpg
+File Modification Date/Time     : 2017:01:06 23:02:31+11:00
+======== ./2016_sync/2017.01.01 New Year in Blacktown {Hi-Res}/15800729_10202573491694910_2740973971609993377_o.jpg
+File Name                       : 15800729_10202573491694910_2740973971609993377_o.jpg
+File Modification Date/Time     : 2017:01:06 23:02:31+11:00
+======== ./2016_sync/2017.01.01 New Year in Blacktown {Hi-Res}/15844919_10202573492574932_6167772402737799565_o.jpg
+File Name                       : 15844919_10202573492574932_6167772402737799565_o.jpg
+File Modification Date/Time     : 2017:01:06 23:02:31+11:00
+======== ./2017_sync/2017.01.08 Newcastle {Hi-Res}/P_20170108_113310_PN.jpg
+File Name                       : P_20170108_113310_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:43+11:00
+Create Date                     : 2017:01:08 11:33:13
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_113310_PN.jpg
+File Name                       : P_20170108_113310_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 11:33:13
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_113323_PN.jpg
+File Name                       : P_20170108_113323_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 11:33:25
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_113449_PN.jpg
+File Name                       : P_20170108_113449_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 11:34:51
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_130250_PN.jpg
+File Name                       : P_20170108_130250_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 13:02:52
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_130302_PN.jpg
+File Name                       : P_20170108_130302_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 13:03:04
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_130522_PN.jpg
+File Name                       : P_20170108_130522_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:14+11:00
+Create Date                     : 2017:01:08 13:05:25
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_152816_PN.jpg
+File Name                       : P_20170108_152816_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:15+11:00
+Create Date                     : 2017:01:08 15:28:18
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_153524_PN.jpg
+File Name                       : P_20170108_153524_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:16+11:00
+Create Date                     : 2017:01:08 15:35:26
+======== ./2017_sync/2017.01.08 Newcastle {Raw}/P_20170108_153635_PN.jpg
+File Name                       : P_20170108_153635_PN.jpg
+File Modification Date/Time     : 2017:01:10 20:42:16+11:00
+Create Date                     : 2017:01:08 15:36:37
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_074719_PN.jpg
+File Name                       : P_20170115_074719_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:29+11:00
+Create Date                     : 2017:01:15 07:47:21
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_074816_PN.jpg
+File Name                       : P_20170115_074816_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:29+11:00
+Create Date                     : 2017:01:15 07:48:18
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_090621_PN.jpg
+File Name                       : P_20170115_090621_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:29+11:00
+Create Date                     : 2017:01:15 09:06:24
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_090644_PN.jpg
+File Name                       : P_20170115_090644_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:29+11:00
+Create Date                     : 2017:01:15 09:06:47
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_091516_PN.jpg
+File Name                       : P_20170115_091516_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:32+11:00
+Create Date                     : 2017:01:15 09:15:18
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_092001_PN.jpg
+File Name                       : P_20170115_092001_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:32+11:00
+Create Date                     : 2017:01:15 09:20:03
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_092625_PN.jpg
+File Name                       : P_20170115_092625_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:32+11:00
+Create Date                     : 2017:01:15 09:26:27
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_092639_PN.jpg
+File Name                       : P_20170115_092639_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:32+11:00
+Create Date                     : 2017:01:15 09:26:42
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_093514_PN.jpg
+File Name                       : P_20170115_093514_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:32+11:00
+Create Date                     : 2017:01:15 09:35:16
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_111138_PN.jpg
+File Name                       : P_20170115_111138_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:33+11:00
+Create Date                     : 2017:01:15 11:11:39
+======== ./2017_sync/2017.01.15 Rose Bay to Watsons Bay {Raw}/P_20170115_111931_PN.jpg
+File Name                       : P_20170115_111931_PN.jpg
+File Modification Date/Time     : 2017:01:15 17:34:33+11:00
+Create Date                     : 2017:01:15 11:19:33
+======== ./2017_sync/2017.01.22 Barrenjoey Lighthouse Sand Dunes Palm Beach {Raw}/P_20170122_105414_PN.jpg
+File Name                       : P_20170122_105414_PN.jpg
+File Modification Date/Time     : 2017:01:24 17:13:28+11:00
+Create Date                     : 2017:01:22 10:54:17
+======== ./2017_sync/2017.01.22 Barrenjoey Lighthouse Sand Dunes Palm Beach {Raw}/P_20170122_105809_PN.jpg
+File Name                       : P_20170122_105809_PN.jpg
+File Modification Date/Time     : 2017:01:24 17:13:28+11:00
+Create Date                     : 2017:01:22 10:58:14
+======== ./2017_sync/2017.01.29 Chinese New Year Lanterns {Raw}/P_20170129_220442_PN.jpg
+File Name                       : P_20170129_220442_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:57:16+11:00
+Create Date                     : 2017:01:29 22:04:44
+======== ./2017_sync/2017.01.29 Spit to Manly  Scenic Walk {Raw}/P_20170129_091052_PN.jpg
+File Name                       : P_20170129_091052_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:58:11+11:00
+Create Date                     : 2017:01:29 09:10:56
+======== ./2017_sync/2017.01.29 Spit to Manly  Scenic Walk {Raw}/P_20170129_091114_PN.jpg
+File Name                       : P_20170129_091114_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:58:11+11:00
+Create Date                     : 2017:01:29 09:11:14
+======== ./2017_sync/2017.01.29 Spit to Manly  Scenic Walk {Raw}/P_20170129_091141_PN.jpg
+File Name                       : P_20170129_091141_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:58:11+11:00
+Create Date                     : 2017:01:29 09:11:44
+======== ./2017_sync/2017.01.29 Spit to Manly  Scenic Walk {Raw}/P_20170129_091156_PN.jpg
+File Name                       : P_20170129_091156_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:58:11+11:00
+Create Date                     : 2017:01:29 09:11:59
+======== ./2017_sync/2017.01.29 Spit to Manly  Scenic Walk {Raw}/P_20170129_102213_PN.jpg
+File Name                       : P_20170129_102213_PN.jpg
+File Modification Date/Time     : 2017:01:30 09:58:11+11:00
+Create Date                     : 2017:01:29 10:22:15
+======== ./2017_sync/2017.02.01 Taronga to Mosman Chowder Bay {Raw}/P_20170201_173900_PN.jpg
+File Name                       : P_20170201_173900_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:23:59+11:00
+Create Date                     : 2017:02:01 17:39:03
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170204_064338_PN.jpg
+File Name                       : P_20170204_064338_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:12:13+11:00
+Create Date                     : 2017:02:04 06:43:42
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170204_115541_PN.jpg
+File Name                       : P_20170204_115541_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:12:26+11:00
+Create Date                     : 2017:02:04 11:55:42
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170204_132216_PN.jpg
+File Name                       : P_20170204_132216_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:13:44+11:00
+Create Date                     : 2017:02:04 13:22:27
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_114148_PN.jpg
+File Name                       : P_20170205_114148_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:04+11:00
+Create Date                     : 2017:02:05 11:41:49
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_114209_PN.jpg
+File Name                       : P_20170205_114209_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:04+11:00
+Create Date                     : 2017:02:05 11:42:14
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_120639_PN.jpg
+File Name                       : P_20170205_120639_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:07+11:00
+Create Date                     : 2017:02:05 12:06:41
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_121239_PN.jpg
+File Name                       : P_20170205_121239_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:08+11:00
+Create Date                     : 2017:02:05 12:12:44
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_121543_PN.jpg
+File Name                       : P_20170205_121543_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:08+11:00
+Create Date                     : 2017:02:05 12:15:44
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_121809_PN.jpg
+File Name                       : P_20170205_121809_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:09+11:00
+Create Date                     : 2017:02:05 12:18:11
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_122022_PN.jpg
+File Name                       : P_20170205_122022_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:09+11:00
+Create Date                     : 2017:02:05 12:20:25
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_122041_PN.jpg
+File Name                       : P_20170205_122041_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:09+11:00
+Create Date                     : 2017:02:05 12:20:43
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_122054_PN.jpg
+File Name                       : P_20170205_122054_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:10+11:00
+Create Date                     : 2017:02:05 12:20:58
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_122124_PN.jpg
+File Name                       : P_20170205_122124_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:10+11:00
+Create Date                     : 2017:02:05 12:21:25
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_122141_PN.jpg
+File Name                       : P_20170205_122141_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:10+11:00
+Create Date                     : 2017:02:05 12:21:42
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_123026_PN.jpg
+File Name                       : P_20170205_123026_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:11+11:00
+Create Date                     : 2017:02:05 12:30:27
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170205_123040_PN.jpg
+File Name                       : P_20170205_123040_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:11+11:00
+Create Date                     : 2017:02:05 12:30:41
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170206_133836_PN.jpg
+File Name                       : P_20170206_133836_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:38+11:00
+Create Date                     : 2017:02:06 13:38:43
+======== ./2017_sync/2017.02.03-08 Fiji {Raw}/P_20170207_124856_PN.jpg
+File Name                       : P_20170207_124856_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:14:51+11:00
+Create Date                     : 2017:02:07 12:49:07
+======== ./2017_sync/2017.02.05 Natadola Beach {Hi-Res}/P_20170205_122124_PN.jpg
+File Name                       : P_20170205_122124_PN.jpg
+File Modification Date/Time     : 2017:02:09 10:31:38+11:00
+Create Date                     : 2017:02:05 12:21:25
+======== ./2017_sync/2017.02.05 Natadola Beach {Hi-Res}/P_20170205_123026_PN.jpg
+File Name                       : P_20170205_123026_PN.jpg
+File Modification Date/Time     : 2017:02:09 10:31:38+11:00
+Create Date                     : 2017:02:05 12:30:27
+======== ./2017_sync/2017.02.05 Natadola Beach {Hi-Res}/P_20170205_123040_PN.jpg
+File Name                       : P_20170205_123040_PN.jpg
+File Modification Date/Time     : 2017:02:09 10:31:38+11:00
+Create Date                     : 2017:02:05 12:30:41
+======== ./2017_sync/2017.02.16 Federation Cliff Walk Gap Park Watsons to Bondi/P_20170216_160904_PN.jpg
+File Name                       : P_20170216_160904_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:07:23+11:00
+Create Date                     : 2017:02:16 16:09:05
+======== ./2017_sync/2017.02.16 Federation Cliff Walk Gap Park Watsons to Bondi/P_20170216_161417_PN.jpg
+File Name                       : P_20170216_161417_PN.jpg
+File Modification Date/Time     : 2017:02:19 20:07:24+11:00
+Create Date                     : 2017:02:16 16:14:19
+======== ./2017_sync/2017.03.09 Picnic Date with Jean {Raw}/P_20170309_171655_PN.jpg
+File Name                       : P_20170309_171655_PN.jpg
+File Modification Date/Time     : 2017:03:11 22:55:07+11:00
+Create Date                     : 2017:03:09 17:16:58
+======== ./2017_sync/2017.04.13 Tong Li Blacktown Gift/1492742896308-937a02e1-d5a7-42b9-a262-1b93ebf1999e.jpg
+File Name                       : 1492742896308-937a02e1-d5a7-42b9-a262-1b93ebf1999e.jpg
+File Modification Date/Time     : 2017:04:25 12:58:42+10:00
+Create Date                     : 2017:04:21 12:48:16
+======== ./2017_sync/2017.04.14 Good Friday Passion Play Penrose Park {Raw}/P_20170414_123804_PN.jpg
+File Name                       : P_20170414_123804_PN.jpg
+File Modification Date/Time     : 2017:04:14 16:44:55+10:00
+Create Date                     : 2017:04:14 12:38:07
+======== ./2017_sync/2017.04.22 Otto Noorba Turkish Jean/1492945995733-a2b7c1fe-8759-4c3b-a723-b692cf2d3904.jpg
+File Name                       : 1492945995733-a2b7c1fe-8759-4c3b-a723-b692cf2d3904.jpg
+File Modification Date/Time     : 2017:04:25 13:00:38+10:00
+Create Date                     : 2017:04:23 21:13:15
+======== ./2017_sync/2017.09.03 Whale Watching Sydney/P_20170903_131002_PN.jpg
+File Name                       : P_20170903_131002_PN.jpg
+File Modification Date/Time     : 2017:09:12 21:31:49+10:00
+Create Date                     : 2017:09:03 13:10:04
+======== ./2017_sync/2017.09.03 Whale Watching Sydney/P_20170903_131010_PN.jpg
+File Name                       : P_20170903_131010_PN.jpg
+File Modification Date/Time     : 2017:09:12 21:31:49+10:00
+Create Date                     : 2017:09:03 13:10:11
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270345688146 (1).jpeg
+File Name                       : received_10213270345688146 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270345688146.jpeg
+File Name                       : received_10213270345688146.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270351568293 (1).jpeg
+File Name                       : received_10213270351568293 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270351568293.jpeg
+File Name                       : received_10213270351568293.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352168308 (1).jpeg
+File Name                       : received_10213270352168308 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352168308.jpeg
+File Name                       : received_10213270352168308.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352608319 (1).jpeg
+File Name                       : received_10213270352608319 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352608319.jpeg
+File Name                       : received_10213270352608319.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352928327 (1).jpeg
+File Name                       : received_10213270352928327 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270352928327.jpeg
+File Name                       : received_10213270352928327.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353048330 (1).jpeg
+File Name                       : received_10213270353048330 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353048330.jpeg
+File Name                       : received_10213270353048330.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353448340 (1).jpeg
+File Name                       : received_10213270353448340 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353448340.jpeg
+File Name                       : received_10213270353448340.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353528342 (1).jpeg
+File Name                       : received_10213270353528342 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353528342.jpeg
+File Name                       : received_10213270353528342.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353728347 (1).jpeg
+File Name                       : received_10213270353728347 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353728347.jpeg
+File Name                       : received_10213270353728347.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353928352 (1).jpeg
+File Name                       : received_10213270353928352 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270353928352.jpeg
+File Name                       : received_10213270353928352.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270354008354 (1).jpeg
+File Name                       : received_10213270354008354 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_10213270354008354.jpeg
+File Name                       : received_10213270354008354.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275495589930 (1).jpeg
+File Name                       : received_2144275495589930 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275495589930.jpeg
+File Name                       : received_2144275495589930.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275498923263 (1).jpeg
+File Name                       : received_2144275498923263 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275498923263.jpeg
+File Name                       : received_2144275498923263.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275502256596 (1).jpeg
+File Name                       : received_2144275502256596 (1).jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.11.11 Sofia's First Birthday/received_2144275502256596.jpeg
+File Name                       : received_2144275502256596.jpeg
+File Modification Date/Time     : 2017:11:11 20:38:40+11:00
+======== ./2017_sync/2017.12.20 Puning Hot Spring Facebook/puning hot springs receipt  (1).jpg
+File Name                       : puning hot springs receipt  (1).jpg
+File Modification Date/Time     : 2018:08:06 15:16:32+10:00
+======== ./2017_sync/2017.12.20 Puning Hot Spring Facebook/puning hot springs receipt  (2).jpg
+File Name                       : puning hot springs receipt  (2).jpg
+File Modification Date/Time     : 2018:08:06 15:16:32+10:00
+======== ./2018_sync/2018.01.01 Canada Bista New Year Perpetual Heights/26113925_10208671336901358_340812238278495246_n.jpg
+File Name                       : 26113925_10208671336901358_340812238278495246_n.jpg
+File Modification Date/Time     : 2018:01:09 22:05:34+11:00
+======== ./2018_sync/2018.02.02-12 Great East Coast Queensland Tour {Raw}/20180211_101831.jpg
+File Name                       : 20180211_101831.jpg
+File Modification Date/Time     : 2018:02:17 16:44:25+11:00
+======== ./2018_sync/2018.02.10 G Queen's Gardens/20180210_150544.jpg
+File Name                       : 20180210_150544.jpg
+File Modification Date/Time     : 2018:03:13 20:25:54+11:00
+======== ./2018_sync/2018.02.11 B Wallaman Falls/20180211_101831.jpg
+File Name                       : 20180211_101831.jpg
+File Modification Date/Time     : 2018:02:17 17:37:59+11:00
+======== ./2018_sync/2018.03.26-27 Visit Tito Pam Blacktown/26_3_18 5_51 pm Office Lens.jpg
+File Name                       : 26_3_18 5_51 pm Office Lens.jpg
+File Modification Date/Time     : 2018:04:21 22:19:56+10:00
+======== ./2018_sync/2018.04.11 NSW Photocard Application/nsw photo Id receipt .jpg
+File Name                       : nsw photo Id receipt .jpg
+File Modification Date/Time     : 2018:04:21 22:20:43+10:00
+======== ./2018_sync/2018.04.25 Anzac Day Dawn Service USyd/Image Today 11_48_24 am.JPG
+File Name                       : Image Today 11_48_24 am.JPG
+File Modification Date/Time     : 2018:04:30 19:00:16+10:00
+======== ./2018_sync/2018.04.25 Anzac Day Dawn Service USyd/Image Today 11_48_26 am.JPG
+File Name                       : Image Today 11_48_26 am.JPG
+File Modification Date/Time     : 2018:04:30 19:00:16+10:00
+======== ./2018_sync/2018.04.25 Anzac Day Dawn Service USyd/Image Today 11_48_30 am.JPG
+File Name                       : Image Today 11_48_30 am.JPG
+File Modification Date/Time     : 2018:04:30 19:00:16+10:00
+======== ./2018_sync/2018.05.23 Sydney Star Party Guiness/Dd3lVRGU0AAbr6S.jpg
+File Name                       : Dd3lVRGU0AAbr6S.jpg
+File Modification Date/Time     : 2018:12:28 15:29:05+11:00
+======== ./2018_sync/2018.05.23 Sydney Star Party Guiness/Dd3lVRGVQAIqzNg.jpg
+File Name                       : Dd3lVRGVQAIqzNg.jpg
+File Modification Date/Time     : 2018:12:28 15:29:05+11:00
+======== ./2018_sync/2018.05.23 Sydney Star Party Guiness/Dd3xNg1UQAEfTIk.jpeg
+File Name                       : Dd3xNg1UQAEfTIk.jpeg
+File Modification Date/Time     : 2018:12:28 15:28:42+11:00
+======== ./2018_sync/2018.06.13 Incredibles Movie Special Screening/IMG-20180613-WA0000.jpg
+File Name                       : IMG-20180613-WA0000.jpg
+File Modification Date/Time     : 2018:06:28 22:17:49+10:00
+======== ./2018_sync/2018.06.13 Incredibles Movie Special Screening/IMG-20180613-WA0001.jpg
+File Name                       : IMG-20180613-WA0001.jpg
+File Modification Date/Time     : 2018:06:28 22:17:50+10:00
+======== ./2018_sync/2018.06.13 Incredibles Movie Special Screening/IMG-20180613-WA0002.jpg
+File Name                       : IMG-20180613-WA0002.jpg
+File Modification Date/Time     : 2018:06:28 22:17:50+10:00
+======== ./2018_sync/2018.06.13 Incredibles Movie Special Screening/IMG-20180613-WA0003.jpg
+File Name                       : IMG-20180613-WA0003.jpg
+File Modification Date/Time     : 2018:06:28 22:17:50+10:00
+======== ./2018_sync/2018.06.13 Incredibles Movie Special Screening/IMG-20180613-WA0004.jpg
+File Name                       : IMG-20180613-WA0004.jpg
+File Modification Date/Time     : 2018:06:28 22:17:50+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0000.jpg
+File Name                       : IMG-20180625-WA0000.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0001.jpg
+File Name                       : IMG-20180625-WA0001.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0002.jpg
+File Name                       : IMG-20180625-WA0002.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0003.jpg
+File Name                       : IMG-20180625-WA0003.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0004.jpg
+File Name                       : IMG-20180625-WA0004.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0005.jpg
+File Name                       : IMG-20180625-WA0005.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0006.jpg
+File Name                       : IMG-20180625-WA0006.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0007.jpg
+File Name                       : IMG-20180625-WA0007.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0008.jpg
+File Name                       : IMG-20180625-WA0008.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0009.jpg
+File Name                       : IMG-20180625-WA0009.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0010.jpg
+File Name                       : IMG-20180625-WA0010.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0011.jpg
+File Name                       : IMG-20180625-WA0011.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0012.jpg
+File Name                       : IMG-20180625-WA0012.jpg
+File Modification Date/Time     : 2018:06:28 22:46:51+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0013.jpg
+File Name                       : IMG-20180625-WA0013.jpg
+File Modification Date/Time     : 2018:06:28 22:46:52+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0014.jpg
+File Name                       : IMG-20180625-WA0014.jpg
+File Modification Date/Time     : 2018:06:28 22:46:52+10:00
+======== ./2018_sync/2018.06.25 Jheevan's Birthday/IMG-20180625-WA0015.jpg
+File Name                       : IMG-20180625-WA0015.jpg
+File Modification Date/Time     : 2018:06:28 22:46:52+10:00
+======== ./2018_sync/2018.09.14 Tito Pam's Blacktown Celebration/41801850_308738013241066_6348028862546313216_n (1).jpg
+File Name                       : 41801850_308738013241066_6348028862546313216_n (1).jpg
+File Modification Date/Time     : 2018:09:15 19:18:44+10:00
+======== ./RAW/2016.01.23 Yuki's Birthday Celebration [family] {Raw}/P_20160123_162844_MT.jpg
+File Name                       : P_20160123_162844_MT.jpg
+File Modification Date/Time     : 2016:01:25 14:46:07+11:00
+Create Date                     : 2016:01:23 16:28:45
+======== ./RAW/2016.02.01 Trina's 20th Birthday [family] {Raw}/P_20160201_195152_EFF.jpg
+File Name                       : P_20160201_195152_EFF.jpg
+File Modification Date/Time     : 2016:02:03 23:38:41+11:00
+Create Date                     : 2016:02:01 19:51:53
+======== ./RAW/2016.02.07 Manaoag Trip [family] {Raw}/P_20160207_100137_PN.jpg
+File Name                       : P_20160207_100137_PN.jpg
+File Modification Date/Time     : 2016:02:09 12:22:28+11:00
+Create Date                     : 2016:02:07 10:01:38
+======== ./RAW/2016.02.07 Manaoag Trip [family] {Raw}/P_20160207_100152_PN.jpg
+File Name                       : P_20160207_100152_PN.jpg
+File Modification Date/Time     : 2016:02:09 12:22:28+11:00
+Create Date                     : 2016:02:07 10:01:53
+======== ./RAW/2016.02.07 Manaoag Trip [family] {Raw}/P_20160207_100201_PN.jpg
+File Name                       : P_20160207_100201_PN.jpg
+File Modification Date/Time     : 2016:02:09 12:22:28+11:00
+Create Date                     : 2016:02:07 10:02:02
+======== ./RAW/2016.02.07 Manaoag Trip [family] {Raw}/P_20160207_125308_PN.jpg
+File Name                       : P_20160207_125308_PN.jpg
+File Modification Date/Time     : 2016:02:09 12:22:31+11:00
+Create Date                     : 2016:02:07 12:53:09
+======== ./RAW/2016.02.07 Manaoag Trip [family] {Raw}/P_20160207_125322_PN.jpg
+File Name                       : P_20160207_125322_PN.jpg
+File Modification Date/Time     : 2016:02:09 12:22:31+11:00
+Create Date                     : 2016:02:07 12:53:23
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_123018_PN.jpg
+File Name                       : P_20160221_123018_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:53:57+11:00
+Create Date                     : 2016:02:21 12:30:20
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_123530_PN.jpg
+File Name                       : P_20160221_123530_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:53:57+11:00
+Create Date                     : 2016:02:21 12:35:30
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_124523_PN.jpg
+File Name                       : P_20160221_124523_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:53:57+11:00
+Create Date                     : 2016:02:21 12:45:23
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_125141_PN.jpg
+File Name                       : P_20160221_125141_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:53:59+11:00
+Create Date                     : 2016:02:21 12:51:42
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_125518_PN.jpg
+File Name                       : P_20160221_125518_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:54:00+11:00
+Create Date                     : 2016:02:21 12:55:19
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_131107_PN.jpg
+File Name                       : P_20160221_131107_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:54:01+11:00
+Create Date                     : 2016:02:21 13:11:08
+======== ./RAW/2016.02.21 Three Sisters Blue Mountains [family][travel] {Raw}/P_20160221_132045_PN.jpg
+File Name                       : P_20160221_132045_PN.jpg
+File Modification Date/Time     : 2016:02:22 11:54:03+11:00
+Create Date                     : 2016:02:21 13:20:45
+======== ./RAW/2016.04.03 Blak Market  Bare Island {Raw}/P_20160403_100005_PN.jpg
+File Name                       : P_20160403_100005_PN.jpg
+File Modification Date/Time     : 2016:04:03 16:40:22+10:00
+Create Date                     : 2016:04:03 10:00:07
+======== ./RAW/2016.08.14 Jenolan Caves {Raw}/P_20160814_125237_PN.jpg
+File Name                       : P_20160814_125237_PN.jpg
+File Modification Date/Time     : 2016:08:17 12:07:46+10:00
+Create Date                     : 2016:08:14 12:52:38
+======== ./RAW/2016.08.14 Jenolan Caves {Raw}/P_20160814_125257_PN.jpg
+File Name                       : P_20160814_125257_PN.jpg
+File Modification Date/Time     : 2016:08:17 12:07:46+10:00
+Create Date                     : 2016:08:14 12:52:58
+======== ./RAW/2016.08.14 Jenolan Caves {Raw}/P_20160814_125311_PN.jpg
+File Name                       : P_20160814_125311_PN.jpg
+File Modification Date/Time     : 2016:08:17 12:07:46+10:00
+Create Date                     : 2016:08:14 12:53:12
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_133304_PN.jpg
+File Name                       : P_20160928_133304_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:40+11:00
+Create Date                     : 2016:09:28 13:33:06
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_140544_PN.jpg
+File Name                       : P_20160928_140544_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:42+11:00
+Create Date                     : 2016:09:28 14:05:46
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_140601_PN.jpg
+File Name                       : P_20160928_140601_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:42+11:00
+Create Date                     : 2016:09:28 14:06:03
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_143502_PN.jpg
+File Name                       : P_20160928_143502_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:45+11:00
+Create Date                     : 2016:09:28 14:35:03
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_143506_PN.jpg
+File Name                       : P_20160928_143506_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:45+11:00
+Create Date                     : 2016:09:28 14:35:07
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_143532_PN.jpg
+File Name                       : P_20160928_143532_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:45+11:00
+Create Date                     : 2016:09:28 14:35:34
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_143545_PN.jpg
+File Name                       : P_20160928_143545_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:45+11:00
+Create Date                     : 2016:09:28 14:35:47
+======== ./RAW/2016.09.28-2016.10.01 PowerCon {Raw}/P_20160928_143552_PN.jpg
+File Name                       : P_20160928_143552_PN.jpg
+File Modification Date/Time     : 2016:10:03 11:03:45+11:00
+Create Date                     : 2016:09:28 14:35:53
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/IMG_4658.jpg
+File Name                       : IMG_4658.jpg
+File Modification Date/Time     : 2016:10:28 11:26:10+11:00
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/IMG_4659.jpg
+File Name                       : IMG_4659.jpg
+File Modification Date/Time     : 2016:10:28 11:26:10+11:00
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/P_20161020_102847_PN.jpg
+File Name                       : P_20161020_102847_PN.jpg
+File Modification Date/Time     : 2016:10:28 11:26:47+11:00
+Create Date                     : 2016:10:20 10:28:49
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/P_20161023_134754_PN.jpg
+File Name                       : P_20161023_134754_PN.jpg
+File Modification Date/Time     : 2016:10:28 11:30:46+11:00
+Create Date                     : 2016:10:23 13:47:56
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/P_20161023_134815_PN.jpg
+File Name                       : P_20161023_134815_PN.jpg
+File Modification Date/Time     : 2016:10:28 11:30:46+11:00
+Create Date                     : 2016:10:23 13:48:17
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/P_20161023_185211_PN.jpg
+File Name                       : P_20161023_185211_PN.jpg
+File Modification Date/Time     : 2016:10:28 11:31:19+11:00
+Create Date                     : 2016:10:23 18:52:13
+======== ./RAW/2016.10.19-25 Parents in Sydney {Raw}/P_20161024_185213_PN.jpg
+File Name                       : P_20161024_185213_PN.jpg
+File Modification Date/Time     : 2016:10:28 11:31:41+11:00
+Create Date                     : 2016:10:24 18:52:15
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161008_191153.jpg
+File Name                       : 20161008_191153.jpg
+File Modification Date/Time     : 2016:10:28 09:30:39+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161008_191321.jpg
+File Name                       : 20161008_191321.jpg
+File Modification Date/Time     : 2016:10:28 09:30:40+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161009_080927.jpg
+File Name                       : 20161009_080927.jpg
+File Modification Date/Time     : 2016:10:28 09:30:40+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161009_082719.jpg
+File Name                       : 20161009_082719.jpg
+File Modification Date/Time     : 2016:10:28 09:30:40+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161009_082840.jpg
+File Name                       : 20161009_082840.jpg
+File Modification Date/Time     : 2016:10:28 09:30:40+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_083114.jpg
+File Name                       : 20161019_083114.jpg
+File Modification Date/Time     : 2016:10:28 09:30:41+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_083508.jpg
+File Name                       : 20161019_083508.jpg
+File Modification Date/Time     : 2016:10:28 09:30:42+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_083555.jpg
+File Name                       : 20161019_083555.jpg
+File Modification Date/Time     : 2016:10:28 09:30:42+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_083846.jpg
+File Name                       : 20161019_083846.jpg
+File Modification Date/Time     : 2016:10:28 09:30:42+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_084233.jpg
+File Name                       : 20161019_084233.jpg
+File Modification Date/Time     : 2016:10:28 09:30:42+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_084400.jpg
+File Name                       : 20161019_084400.jpg
+File Modification Date/Time     : 2016:10:28 09:30:43+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161019_084538.jpg
+File Name                       : 20161019_084538.jpg
+File Modification Date/Time     : 2016:10:28 09:30:43+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_111323.jpg
+File Name                       : 20161022_111323.jpg
+File Modification Date/Time     : 2016:10:28 09:31:03+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_152956.jpg
+File Name                       : 20161022_152956.jpg
+File Modification Date/Time     : 2016:10:28 09:32:02+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_153037.jpg
+File Name                       : 20161022_153037.jpg
+File Modification Date/Time     : 2016:10:28 09:32:03+11:00
+Create Date                     : 2016:10:22 15:30:37
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_174713.jpg
+File Name                       : 20161022_174713.jpg
+File Modification Date/Time     : 2016:10:28 09:32:05+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_175008.jpg
+File Name                       : 20161022_175008.jpg
+File Modification Date/Time     : 2016:10:28 09:32:05+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_175122.jpg
+File Name                       : 20161022_175122.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_175233.jpg
+File Name                       : 20161022_175233.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_175435.jpg
+File Name                       : 20161022_175435.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_180955.jpg
+File Name                       : 20161022_180955.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/20161022_181016.jpg
+File Name                       : 20161022_181016.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/FB_IMG_1475959049384.jpg
+File Name                       : FB_IMG_1475959049384.jpg
+File Modification Date/Time     : 2016:10:28 09:32:06+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/received_10202215933356175.jpeg
+File Name                       : received_10202215933356175.jpeg
+File Modification Date/Time     : 2016:10:28 09:32:07+11:00
+======== ./RAW/2016.10.22 Lisa Leura Rhododendron {Raw}/received_10202215937996291.jpeg
+File Name                       : received_10202215937996291.jpeg
+File Modification Date/Time     : 2016:10:28 09:32:07+11:00
+======== ./RAW/2016.11.06 Scuplture by the Sea {Raw}/P_20161106_093320_PN.jpg
+File Name                       : P_20161106_093320_PN.jpg
+File Modification Date/Time     : 2016:11:06 19:17:31+11:00
+Create Date                     : 2016:11:06 09:33:22
+======== ./RAW/2016.12.31 New Year's Eve Celebration {Raw}/P_20161231_145756_PN.jpg
+File Name                       : P_20161231_145756_PN.jpg
+File Modification Date/Time     : 2017:01:05 21:28:36+11:00
+Create Date                     : 2016:12:31 14:57:58
+======== ./RAW/2016.12.31 New Year's Eve Celebration {Raw}/P_20161231_145810_PN.jpg
+File Name                       : P_20161231_145810_PN.jpg
+File Modification Date/Time     : 2017:01:05 21:28:36+11:00
+Create Date                     : 2016:12:31 14:58:11
+======== ./unknown/1997.xx.xx Grade 2 St Andrew [ssa]/IMG_0038.jpg
+File Name                       : IMG_0038.jpg
+File Modification Date/Time     : 2013:11:09 17:12:54+11:00
+======== ./unknown/199x.01.01 New Year [family]/xxxx.01.01 new Year.jpg
+File Name                       : xxxx.01.01 new Year.jpg
+File Modification Date/Time     : 2012:12:08 17:43:22+11:00
+======== ./unknown/2001.04.xx Recognition day [phs][family]/recognition ku.jpg
+File Name                       : recognition ku.jpg
+File Modification Date/Time     : 2013:11:09 17:24:07+11:00
+======== ./unknown/2001.xx.xx Grade 6 Intrams [ssa]/IMG_0043.jpg
+File Name                       : IMG_0043.jpg
+File Modification Date/Time     : 2012:12:09 12:30:58+11:00
+======== ./unknown/2002.xx.xx 1st year [phs]/IMG_0045 - Copy.jpg
+File Name                       : IMG_0045 - Copy.jpg
+File Modification Date/Time     : 2015:10:25 20:45:58+11:00
+======== ./unknown/2003.xx.xx 2nd year [phs]/IMG_0045.jpg
+File Name                       : IMG_0045.jpg
+File Modification Date/Time     : 2015:04:05 17:09:20+10:00
+======== ./unknown/2003.xx.xx-2004.xx.xx 3rd year [phs]/IMG_0059.jpg
+File Name                       : IMG_0059.jpg
+File Modification Date/Time     : 2013:11:09 17:24:05+11:00
+======== ./unknown/2003.xx.xx-2004.xx.xx 3rd year [phs]/IMG_0060.jpg
+File Name                       : IMG_0060.jpg
+File Modification Date/Time     : 2012:12:09 12:31:10+11:00
+======== ./unknown/2003.xx.xx-2004.xx.xx 3rd year [phs]/IMG_0061.jpg
+File Name                       : IMG_0061.jpg
+File Modification Date/Time     : 2013:11:09 17:24:05+11:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0046.jpg
+File Name                       : IMG_0046.jpg
+File Modification Date/Time     : 2015:04:05 17:11:14+10:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0047.jpg
+File Name                       : IMG_0047.jpg
+File Modification Date/Time     : 2015:10:25 13:07:09+11:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0072.jpg
+File Name                       : IMG_0072.jpg
+File Modification Date/Time     : 2013:11:09 17:24:05+11:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0073.jpg
+File Name                       : IMG_0073.jpg
+File Modification Date/Time     : 2013:11:09 17:24:04+11:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0074.jpg
+File Name                       : IMG_0074.jpg
+File Modification Date/Time     : 2013:11:09 17:24:04+11:00
+======== ./unknown/2005.xx.xx 4th year Electron [phs]/IMG_0075.jpg
+File Name                       : IMG_0075.jpg
+File Modification Date/Time     : 2013:11:09 17:24:04+11:00
+======== ./unknown/2005.xx.xx Swimming Yes-O [phs]/10393891_855768294452679_3570148857941649561_n.jpg
+File Name                       : 10393891_855768294452679_3570148857941649561_n.jpg
+File Modification Date/Time     : 2014:06:21 23:14:25+10:00
+======== ./unknown/2005.xx.xx Swimming Yes-O [phs]/10414540_855401191156056_2383751262175464868_n.jpg
+File Name                       : 10414540_855401191156056_2383751262175464868_n.jpg
+File Modification Date/Time     : 2014:06:21 23:17:40+10:00
+======== ./unknown/2006.xx.xx Sophomore Batch [admu][cersa]/small.jpg
+File Name                       : small.jpg
+File Modification Date/Time     : 2010:12:05 20:56:16+11:00
+Create Date                     : 2006:09:20 23:31:48-08:00
+======== ./unknown/2007.xx.xx Block Shirt [admu][blockU]/blockshirt12ox8.jpg
+File Name                       : blockshirt12ox8.jpg
+File Modification Date/Time     : 2013:08:21 23:00:33+10:00
+Create Date                     : 2007:06:10 10:19:32+08:00
+======== ./unknown/2007.xx.xx Map Recweek [admu][coa]/map for recweek.jpg
+File Name                       : map for recweek.jpg
+File Modification Date/Time     : 2013:08:21 23:03:38+10:00
+Create Date                     : 2007:05:15 07:47:26+08:00
+======== ./unknown/2009.11.xx Lyceum Contest [canon][travel]/Ateneo participants of the Battle of the Wizards Quiz Bowl 2009 in Lyceum.jpg
+File Name                       : Ateneo participants of the Battle of the Wizards Quiz Bowl 2009 in Lyceum.jpg
+File Modification Date/Time     : 2014:06:08 15:25:25+10:00
+======== ./unknown/2013.01.xx Allan Artwork [canon]/fb_1009073_791728750840848_1782478700_o.jpg
+File Name                       : fb_1009073_791728750840848_1782478700_o.jpg
+File Modification Date/Time     : 2014:01:17 23:06:51+11:00
+======== ./unknown/2013.xx.xx Cafe Bene [canon][food]/2013 cafe bene.jpg
+File Name                       : 2013 cafe bene.jpg
+File Modification Date/Time     : 2014:01:05 19:30:53+11:00
+======== ./unknown/2015.xx.xx Sisig Hooray/received_10206147162151206.jpeg
+File Name                       : received_10206147162151206.jpeg
+File Modification Date/Time     : 2015:08:24 01:22:10+10:00
+======== ./unknown/2015.xx.xx Sisig Hooray/received_10206147162191207.jpeg
+File Name                       : received_10206147162191207.jpeg
+File Modification Date/Time     : 2015:08:24 01:22:11+10:00
+======== ./unknown/Intrams/brown photo (100).jpg
+File Name                       : brown photo (100).jpg
+File Modification Date/Time     : 2012:12:08 17:57:12+11:00
+======== ./unknown/Intrams/brown photo (92).jpg
+File Name                       : brown photo (92).jpg
+File Modification Date/Time     : 2012:12:08 17:58:24+11:00
+======== ./unknown/Intrams/brown photo (93).jpg
+File Name                       : brown photo (93).jpg
+File Modification Date/Time     : 2012:12:08 17:58:24+11:00
+======== ./unknown/Intrams/brown photo (96).jpg
+File Name                       : brown photo (96).jpg
+File Modification Date/Time     : 2012:12:08 17:58:26+11:00
+======== ./unknown/Intrams/celebrate (40).jpg
+File Name                       : celebrate (40).jpg
+File Modification Date/Time     : 2015:01:01 19:43:33+11:00
+======== ./unknown/Intrams/celebrate (44).jpg
+File Name                       : celebrate (44).jpg
+File Modification Date/Time     : 2012:12:08 19:27:34+11:00
+======== ./unknown/Intrams/green (1).jpg
+File Name                       : green (1).jpg
+File Modification Date/Time     : 2012:12:01 10:11:06+11:00
+======== ./unknown/Intrams/green (58).jpg
+File Name                       : green (58).jpg
+File Modification Date/Time     : 2012:12:01 10:11:34+11:00
+======== ./unknown/Intrams/IMG_0029.jpg
+File Name                       : IMG_0029.jpg
+File Modification Date/Time     : 2012:12:09 12:30:54+11:00
+======== ./unknown/NO DATES/1999.xx.xx world map.jpg
+File Name                       : 1999.xx.xx world map.jpg
+File Modification Date/Time     : 2013:11:09 17:11:01+11:00
+======== ./unknown/NO DATES/kasal ng tita lea.jpg
+File Name                       : kasal ng tita lea.jpg
+File Modification Date/Time     : 2012:12:08 19:51:30+11:00
+======== ./unknown/NO DATES/maybe 2nd year or 4th year recognition/IMG_0087.jpg
+File Name                       : IMG_0087.jpg
+File Modification Date/Time     : 2013:11:09 17:11:01+11:00
+======== ./unknown/Reunion Swimming/brown photo (114).jpg
+File Name                       : brown photo (114).jpg
+File Modification Date/Time     : 2012:12:08 17:57:22+11:00
+======== ./unknown/Reunion Swimming/brown photo (8).jpg
+File Name                       : brown photo (8).jpg
+File Modification Date/Time     : 2012:12:08 17:58:20+11:00
+======== ./unknown/Reunion Swimming/brown photo (83).jpg
+File Name                       : brown photo (83).jpg
+File Modification Date/Time     : 2012:12:08 17:58:22+11:00
+======== ./unknown/Reunion Swimming/green (5).jpg
+File Name                       : green (5).jpg
+File Modification Date/Time     : 2012:12:01 10:11:30+11:00
+======== ./unknown/Reunion Swimming/green (64).jpg
+File Name                       : green (64).jpg
+File Modification Date/Time     : 2012:12:01 01:19:08+11:00
+======== ./unknown/Reunion Swimming/green (71).jpg
+File Name                       : green (71).jpg
+File Modification Date/Time     : 2012:12:01 10:11:42+11:00
+======== ./unknown/Reunion Swimming/green (73).jpg
+File Name                       : green (73).jpg
+File Modification Date/Time     : 2012:12:01 10:11:42+11:00
+======== ./unknown/Reunion Swimming/green (74).jpg
+File Name                       : green (74).jpg
+File Modification Date/Time     : 2012:12:01 10:11:42+11:00
+======== ./unknown/Reunion Swimming/green (78).jpg
+File Name                       : green (78).jpg
+File Modification Date/Time     : 2012:12:01 10:11:44+11:00
+======== ./unknown/Reunion Swimming/green (8).jpg
+File Name                       : green (8).jpg
+File Modification Date/Time     : 2012:12:01 10:11:44+11:00
+======== ./unknown/Reunion Swimming/IMG_0109.jpg
+File Name                       : IMG_0109.jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/IMG_0110.jpg
+File Name                       : IMG_0110.jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/next brown (26).jpg
+File Name                       : next brown (26).jpg
+File Modification Date/Time     : 2012:12:08 17:58:34+11:00
+======== ./unknown/Reunion Swimming/next brown (31).jpg
+File Name                       : next brown (31).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/red unforget (103).jpg
+File Name                       : red unforget (103).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/red unforget (106).jpg
+File Name                       : red unforget (106).jpg
+File Modification Date/Time     : 2013:09:29 15:29:14+10:00
+======== ./unknown/Reunion Swimming/red unforget (125).jpg
+File Name                       : red unforget (125).jpg
+File Modification Date/Time     : 2012:12:08 17:43:26+11:00
+======== ./unknown/Reunion Swimming/red unforget (126).jpg
+File Name                       : red unforget (126).jpg
+File Modification Date/Time     : 2012:12:08 17:43:28+11:00
+======== ./unknown/Reunion Swimming/red unforget (73).jpg
+File Name                       : red unforget (73).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/red unforget (75).jpg
+File Name                       : red unforget (75).jpg
+File Modification Date/Time     : 2012:12:08 17:43:06+11:00
+======== ./unknown/Reunion Swimming/red unforget (78).jpg
+File Name                       : red unforget (78).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/red unforget (82).jpg
+File Name                       : red unforget (82).jpg
+File Modification Date/Time     : 2012:12:08 17:43:08+11:00
+======== ./unknown/Reunion Swimming/red unforget (83).jpg
+File Name                       : red unforget (83).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/reunion.jpg
+File Name                       : reunion.jpg
+File Modification Date/Time     : 2012:12:08 17:43:08+11:00
+======== ./unknown/Reunion Swimming/swimming (1).jpg
+File Name                       : swimming (1).jpg
+File Modification Date/Time     : 2013:11:09 17:11:02+11:00
+======== ./unknown/Reunion Swimming/swimming (2).jpg
+File Name                       : swimming (2).jpg
+File Modification Date/Time     : 2014:01:27 00:47:07+11:00
+======== ./unknown/Reunion Swimming/swimming pasibayu.jpg
+File Name                       : swimming pasibayu.jpg
+File Modification Date/Time     : 2012:12:08 17:43:12+11:00
+======== ./unknown/Reunion Swimming/swimming.jpg
+File Name                       : swimming.jpg
+File Modification Date/Time     : 2012:12:08 14:54:34+11:00
+======== ./unknown/xxxx.01.01 New Year Uli/flip album (115).jpg
+File Name                       : flip album (115).jpg
+File Modification Date/Time     : 2012:11:25 01:23:56+11:00
+======== ./unknown/xxxx.02.01 Trina Birthday/green continued (72).jpg
+File Name                       : green continued (72).jpg
+File Modification Date/Time     : 2012:12:01 10:05:02+11:00
+======== ./unknown/xxxx.02.01 Trina Birthday/green continued (73).jpg
+File Name                       : green continued (73).jpg
+File Modification Date/Time     : 2012:12:01 10:05:02+11:00
+======== ./unknown/xxxx.02.01 Trina Birthday/green continued (75).jpg
+File Name                       : green continued (75).jpg
+File Modification Date/Time     : 2012:12:01 10:05:02+11:00
+======== ./unknown/xxxx.02.01 Trina Birthday/green continued (76).jpg
+File Name                       : green continued (76).jpg
+File Modification Date/Time     : 2014:01:26 21:37:32+11:00
+======== ./unknown/xxxx.xx.xx still misc [admu]/logos/arsanet_logo.gif
+File Name                       : arsanet_logo.gif
+File Modification Date/Time     : 2008:11:19 02:41:26+11:00
+======== ./unknown/xxxx.xx.xx still misc [admu]/logos/cluster logo.jpg
+File Name                       : cluster logo.jpg
+File Modification Date/Time     : 2010:12:05 21:52:31+11:00
+Create Date                     : 2007:06:14 22:07:26+08:00
+======== ./unknown/Yuki Communion/green (57).jpg
+File Name                       : green (57).jpg
+File Modification Date/Time     : 2013:11:09 17:11:00+11:00
+======== ./unknown/Yuki Preparatory School/next brown (49).jpg
+File Name                       : next brown (49).jpg
+File Modification Date/Time     : 2013:11:09 17:11:01+11:00
+======== ./unknown/Yuki Preparatory School/next brown (51).jpg
+File Name                       : next brown (51).jpg
+File Modification Date/Time     : 2012:12:08 17:32:00+11:00
+======== ./unknown/Yuki Preparatory School/yuki preparatory graduation (1).jpg
+File Name                       : yuki preparatory graduation (1).jpg
+File Modification Date/Time     : 2012:12:08 17:43:06+11:00
+======== ./unknown/Yuki Preparatory School/yuki preparatory graduation (2).jpg
+File Name                       : yuki preparatory graduation (2).jpg
+File Modification Date/Time     : 2012:12:08 14:54:28+11:00
+======== ./unknown/Yuki Preparatory School/yuki preparatory graduation (3).jpg
+File Name                       : yuki preparatory graduation (3).jpg
+File Modification Date/Time     : 2012:12:08 17:43:10+11:00
+ 3024 directories scanned
+60540 files failed condition
+  373 image files read

@@ -39,8 +39,8 @@ for d in */; do
         if [ "$OLD_TITLE" == "" ]; then
             fnc_overwrite
         elif [ "$OLD_TITLE" != "$NEW_TITLE" ]; then
-            echo "DIRECTORY: $(basename "$d")"
-            echo "FILENAME: $f"
+            echo "DIRECTORY:     $(basename "$d")"
+            echo "FILENAME:      $f"
             echo "CURRENT TITLE: $OLD_TITLE"
             read -p "Not an empty title, do you want to rename? " -n 1 -r
             echo

@@ -9,9 +9,12 @@
 #           '2020.01.01 Folder Name' has an image file '1.jpg' and '2.jpeg'
 #           '1.jpg' and '2.jpeg' will have the folder name in their metadata
 
+
+# shortcut to rename all in folder
+
 fnc_overwrite() {
     echo "DIRECTORY: $(basename "$d")"
-    echo "FILENAME: $f"
+    echo "FILENAME:  $f"
     echo "overwriting title/description"
     exiftool \
         -overwrite_original \

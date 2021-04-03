@@ -18,7 +18,7 @@ for d in */; do
             date_of_file="$(exiftool -p '$DateTimeOriginal' -d %Y.%m.%d "$f" -q -q)"
             if [ "$date_of_file" == "" ]; then
                 show_info
-                exiftool '-datetimeoriginal<${directory;s/.*(\d{4})-(\d\d)-(\d\d).*/$1:$2:$3/} 00:00:00' -if '(not $datetimeoriginal)'  "$f"
+                exiftool '-datetimeoriginal<${directory;s/.*(\d{4})-(\d\d)-(\d\d).*/$1:$2:$3/} 00:00:00' -overwrite_original -if '(not $datetimeoriginal)'  "$f"
             elif [ "$my_date" != "$date_of_file" ]; then
                 show_info
                 read -p "Dates not matching. Change? (y/n) or skip all in folder (l): " -n 1 -r
@@ -29,7 +29,7 @@ for d in */; do
                     elif [[ ! $REPLY =~ ^[Yy]$ ]]; then
                         echo "no changes to this file"
                     else
-                       exiftool '-datetimeoriginal<${directory;s/.*(\d{4})-(\d\d)-(\d\d).*/$1:$2:$3/} 00:00:00' -if '${directory;$_=substr($_,0, 11);s/\.//;s/\.//;s/.*(\d{4})-(\d\d)-(\d\d).*/$1$2$3" "/} ne $datetimeoriginal' -d '%Y%m%d '  "$f"
+                       exiftool '-datetimeoriginal<${directory;s/.*(\d{4})-(\d\d)-(\d\d).*/$1:$2:$3/} 00:00:00' -overwrite_original -if '${directory;$_=substr($_,0, 11);s/\.//;s/\.//;s/.*(\d{4})-(\d\d)-(\d\d).*/$1$2$3" "/} ne $datetimeoriginal' -d '%Y%m%d '  "$f"
                 fi
             fi
         done

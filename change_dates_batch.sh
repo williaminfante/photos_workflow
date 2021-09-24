@@ -9,9 +9,10 @@ show_info() {
 
 for d in */; do
     my_date=$(echo "$d" | head -c10)
+    my_date_range_type=$(echo "$d" | head -c11)
+    date_range_type=$([[ $my_date_range_type =~ ^[0-9]{4}\.(0[1-9]|1[0-2])\.(0[1-9]|[1-2][0-9]|3[0-1])[/.-]$ ]] && echo "range" || echo "single")
     is_matching=$([[ $my_date =~ ^[0-9]{4}\.(0[1-9]|1[0-2])\.(0[1-9]|[1-2][0-9]|3[0-1])$ ]] && echo "matched" || echo "did not match")
-
-    if [ "$is_matching" == "matched" ]; then
+    if [ "$is_matching" == "matched" -a "$date_range_type" == "single" ]; then
         shopt -s nullglob
 
         for f in "$d"*.jp*g "$d"*.png; do

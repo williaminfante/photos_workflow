@@ -35,19 +35,24 @@ fnc_overwrite() {
 
 for d in */; do
     shopt -s nullglob
+    alloverride="deactivated"
     for f in "$d"*.jp*g "$d"*.png; do
         NEW_TITLE="${d%?}"
         OLD_TITLE="$(exiftool -s -s -s -EXIF:ImageDescription "$f")"
 
-        if [ "$OLD_TITLE" == "" ]; then
+        if [ "$OLD_TITLE" == "" -o "$alloverride" == "active" ]; then
             fnc_overwrite
         elif [ "$OLD_TITLE" != "$NEW_TITLE" ]; then
             echo "DIRECTORY:     $(basename "$d")"
             echo "FILENAME:      $f"
+            echo "OVERRIDE:      $alloverride"
             echo "CURRENT TITLE: $OLD_TITLE"
-            read -p "Not an empty title, do you want to rename? " -n 1 -r
+            read -p "Not an empty title, do you want to rename (y/n) or rename ALL inside the folder (a)? " -n 1 -r
             echo
-            if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+            if [[ $REPLY =~ ^[Aa]$ ]]; then
+                alloverride="active"
+                fnc_overwrite
+            elif [[ ! $REPLY =~ ^[Yy]$ ]]; then
                 echo "skipping, not overrwriting incorrect title name"
             else
                 fnc_overwrite

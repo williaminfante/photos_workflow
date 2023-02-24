@@ -9,7 +9,6 @@
 #           '2020.01.01 Folder Name' has an image file '1.jpg' and '2.jpeg'
 #           '1.jpg' and '2.jpeg' will have the folder name in their metadata
 
-
 # shortcut to rename all in folder
 
 fnc_overwrite() {
@@ -21,6 +20,7 @@ fnc_overwrite() {
         -XMP:Title="$NEW_TITLE" \
         -EXIF:ImageDescription="$NEW_TITLE" \
         -XMP:Description="$NEW_TITLE" \
+        -XMP-dc:Description="$NEW_TITLE" \
         -EXIF:XPTitle="$NEW_TITLE" \
         "$f"
 
@@ -29,6 +29,7 @@ fnc_overwrite() {
         -XMP:Title \
         -EXIF:ImageDescription \
         -XMP:Description \
+        -XMP-dc:Description \
         -EXIF:XPTitle \
         "$f"
 }
@@ -38,7 +39,7 @@ for d in */; do
     alloverride="deactivated"
     for f in "$d"*.jp*g "$d"*.png; do
         NEW_TITLE="${d%?}"
-        OLD_TITLE="$(exiftool -s -s -s -EXIF:ImageDescription "$f")"
+        OLD_TITLE="$(exiftool -s -s -s -XMP-dc:Description "$f")"
 
         if [ "$OLD_TITLE" == "" -o "$alloverride" == "active" ]; then
             fnc_overwrite

@@ -37,7 +37,7 @@ fnc_overwrite() {
 for d in */; do
     shopt -s nullglob
     alloverride="deactivated"
-    for f in "$d"*.jp*g "$d"*.png; do
+    for f in "$d"*.jp*g "$d"*.png "$d"*.heic; do
         NEW_TITLE="${d%?}"
         OLD_TITLE="$(exiftool -s -s -s -XMP-dc:Description "$f")"
 
